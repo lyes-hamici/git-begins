@@ -1,0 +1,6 @@
+﻿GIT CLONE ‘lien vers vôtre github’
+GIT ADD FILENAME
+
+GIT COMMIT -m  ‘description’
+
+GIT PUSH -u ORIGIN main
