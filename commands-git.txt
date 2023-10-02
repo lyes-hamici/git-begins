@@ -4,3 +4,5 @@ GIT ADD FILENAME
 GIT COMMIT -m  ‘description’
 
 GIT PUSH -u ORIGIN main
+
+GIT pull or GIT pull --all (Fetch all remotes - this is handy if you are working on a fork or in another use case with multiple remotes.)
